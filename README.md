@@ -1,0 +1,42 @@
+# Suraj Kumar
+
+**Solution Architect** · Cybersecurity · Azure & Microsoft 365 · ERP Integration · AI
+Gurgaon, India
+
+[Portfolio](https://sk9836413.github.io) · [Resume (PDF)](https://sk9836413.github.io/Suraj_Kumar_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/suraj-kumar-45b377201/) · [Email](mailto:sk9836413@gmail.com)
+
+I started in bancassurance sales, then spent 4+ years in IT across support, infrastructure, cloud security and software engineering. Today I run presales demos and requirement gathering for VATSIN Technology Solutions and its sister company Bless Tech Solutions, design systems end to end, and build and secure what I design.
+
+**Certified:** Microsoft 365 Certified: Administrator Expert · Identity and Access Administrator Associate (SC-300) · Microsoft Certified: SQL AI Developer Associate · ManageEngine Log360 SIEM (MECPA) · OCNA Wireless
+
+## What I architect
+
+- **Identity and security:** Zero Trust on Microsoft Entra ID with Conditional Access, MFA, RBAC and PAM360. Recovered a breached Microsoft 365 tenant with zero data loss.
+- **Cloud and infrastructure:** Azure first, plus AWS Lambda, S3 and EC2. High availability with Patroni, HAProxy and Windows NLB, point-in-time backups, DR, and NOC/SOC monitoring with Site24x7, OpManager and Log360.
+- **Microsoft 365 and migration:** 10,000 users moved from Google Workspace and 5,000 users tenant-to-tenant.
+- **Enterprise apps and ERP:** Dynamics 365 Business Central integrations, procure-to-pay, CRM, HR and payroll built for Indian tax and labour rules.
+- **AI and automation:** self-hosted LLMs, voice agents, document AI, Power Automate and CI/CD.
+
+## Selected work
+
+| Project | What it does | Stack |
+|---|---|---|
+| **Vatsin Workspace** | 17-product multi-tenant HR, payroll and workplace suite with Indian statutory payroll, shop-floor attendance and a self-hosted AI assistant. I'm product owner and lead. In development. | Next.js, TypeScript, PostgreSQL, Prisma, React Native, Ollama (Qwen), Kubernetes, Azure |
+| **Procure-to-pay workflow portal** | Request to payment for a multi-plant chemicals manufacturer: approval levels, GST and TDS, budgets, QC holds and three-way invoice match. | Next.js 16, PostgreSQL, Prisma 7, Business Central, Power Automate |
+| **Sales, CRM and licence compliance portal** | A Business Central extension checks licences before an invoice posts. I led a team of 4 from prototype to production. | Next.js 16, PostgreSQL, Prisma, AL (Business Central) |
+| **M365 Duplicate Mail Cleanup** | Finds and safely removes duplicates in 50–100 GB mailboxes, with no hard deletes. | Next.js, Microsoft Graph, MSAL, Prisma |
+| **M365 Tenant-to-Tenant Migration** | Moves users, mailboxes, groups, Teams and SharePoint between tenants. | React, Express, Drizzle, OpenAPI |
+| **Hybrid Enterprise Mail + License Portal** | Branded Outlook-style mail, calendar and contacts on Microsoft 365. | Next.js, Socket.IO, Redis, Microsoft Graph, Azure |
+| **Vatsin WhatsApp SaaS** | Multi-tenant WhatsApp campaigns, OTPs and a developer API. [Live](https://vatsin-whatsapp-saas.vercel.app) | Next.js, Express, Prisma, WebSockets |
+| **AI voice assistant for service calls** | Books service complaints over the phone in Indian English and Hinglish. | Python, FastAPI, GPT-4, Deepgram, ElevenLabs |
+| **Sales CRM** | Flutter CRM for Android, iOS and web with Business Central data. | Flutter, Node.js, PostgreSQL |
+
+Most of this is client or company work, so the repositories are private. The [portfolio](https://sk9836413.github.io) has the details.
+
+## Experience
+
+- **Senior Software Engineer**, VATSIN Technology Solutions · May 2026 – now
+- **System Administrator, Azure & Microsoft 365 Security**, VATSIN Technology Solutions · Oct 2025 – Apr 2026
+- **Server / Infrastructure Engineer**, Compton Computers · Oct 2024 – Sep 2025
+- **Technical Support Engineer**, eSSL Security · Dec 2021 – Jul 2024
+- **Sales, Bancassurance**, Bajaj Allianz General Insurance · Sep 2020 – Nov 2021 · 250% sales growth in my zone
