@@ -27,7 +27,7 @@ I started in bancassurance sales, then spent 4+ years in IT across support, infr
 | **M365 Duplicate Mail Cleanup** | Finds and safely removes duplicates in 50–100 GB mailboxes, with no hard deletes. | Next.js, Microsoft Graph, MSAL, Prisma |
 | **M365 Tenant-to-Tenant Migration** | Moves users, mailboxes, groups, Teams and SharePoint between tenants. | React, Express, Drizzle, OpenAPI |
 | **Hybrid Enterprise Mail + License Portal** | Branded Outlook-style mail, calendar and contacts on Microsoft 365. | Next.js, Socket.IO, Redis, Microsoft Graph, Azure |
-| **Vatsin WhatsApp SaaS** | Multi-tenant WhatsApp campaigns, OTPs and a developer API. [Live](https://vatsin-whatsapp-saas.vercel.app) | Next.js, Express, Prisma, WebSockets |
+| **Vatsin WhatsApp SaaS** | Live in production with its first client: WhatsApp campaigns, OTPs, chatbots and a developer API, with an anti-ban sending engine. [Live](https://whatsapp.vatsintech.com) | Next.js, Express, WebSockets, Baileys, Prisma, Nginx, PM2 |
 | **AI voice assistant for service calls** | Books service complaints over the phone in Indian English and Hinglish. | Python, FastAPI, GPT-4, Deepgram, ElevenLabs |
 | **Sales CRM** | Flutter CRM for Android, iOS and web with Business Central data. | Flutter, Node.js, PostgreSQL |
 
