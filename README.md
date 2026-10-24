@@ -21,12 +21,14 @@ I started in bancassurance sales, then spent 4+ years in IT across support, infr
 
 | Project | What it does | Stack |
 |---|---|---|
-| **Vatsin Workspace** | 17-product multi-tenant HR, payroll and workplace suite with Indian statutory payroll, shop-floor attendance and a self-hosted AI assistant. I'm product owner and lead. In development. | Next.js, TypeScript, PostgreSQL, Prisma, React Native, Ollama (Qwen), Kubernetes, Azure |
+| **Vatsin Workspace** | 18-product multi-tenant HR, payroll and workplace suite with Indian statutory payroll, shop-floor attendance and a self-hosted AI assistant. I'm product owner and lead. Live demos; production pilot in preparation. [Product site](https://hr.vatsintech.com) | Next.js, TypeScript, PostgreSQL, Prisma, React Native, Ollama (Qwen), Kubernetes, Azure |
 | **Procure-to-pay workflow portal** | Request to payment for a multi-plant chemicals manufacturer: approval levels, GST and TDS, budgets, QC holds and three-way invoice match. | Next.js 16, PostgreSQL, Prisma 7, Business Central, Power Automate |
 | **Sales, CRM and licence compliance portal** | A Business Central extension checks licences before an invoice posts. I led a team of 4 from prototype to production. | Next.js 16, PostgreSQL, Prisma, AL (Business Central) |
 | **M365 Duplicate Mail Cleanup** | Finds and safely removes duplicates in 50–100 GB mailboxes, with no hard deletes. | Next.js, Microsoft Graph, MSAL, Prisma |
 | **M365 Tenant-to-Tenant Migration** | Moves users, mailboxes, groups, Teams and SharePoint between tenants. | React, Express, Drizzle, OpenAPI |
-| **Hybrid Enterprise Mail + License Portal** | Branded Outlook-style mail, calendar and contacts on Microsoft 365. | Next.js, Socket.IO, Redis, Microsoft Graph, Azure |
+| **Vatsin Email Marketing** | Bulk email outreach with warm-up, sender rotation and anti-spam controls, plus a branded Microsoft 365 mail client. [Live](https://email.vatsintech.com) | Next.js, Express, Prisma, PostgreSQL, Microsoft Graph, Azure |
+| **Vatsin POS** | Offline-first GST point of sale for any Indian store, with ERP connectors and Windows/Android apps. [Live](https://pos.vatsintech.com) | Next.js 16, Hono, Drizzle, PostgreSQL, PowerSync, Electron, Capacitor |
+| **Vatsin IMS** | Multi-tenant IT asset management: QR tags, approvals, depreciation and maintenance. [Live](https://asset.vatsintech.com) | Laravel 11, Vue 3, Inertia.js |
 | **Vatsin WhatsApp SaaS** | Live in production with its first client: WhatsApp campaigns, OTPs, chatbots and a developer API, with an anti-ban sending engine. [Live](https://whatsapp.vatsintech.com) | Next.js, Express, WebSockets, Baileys, Prisma, Nginx, PM2 |
 | **AI voice assistant for service calls** | Books service complaints over the phone in Indian English and Hinglish. | Python, FastAPI, GPT-4, Deepgram, ElevenLabs |
 | **Sales CRM** | Flutter CRM for Android, iOS and web with Business Central data. | Flutter, Node.js, PostgreSQL |
